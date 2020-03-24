@@ -209,7 +209,7 @@ Partial Class CarInventory
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(83, 32)
         Me.btnExit.TabIndex = 13
-        Me.btnExit.Text = "&Exit"
+        Me.btnExit.Text = "E&xit"
         Me.carInventoryToolTip.SetToolTip(Me.btnExit, "Press to close the application.")
         Me.btnExit.UseVisualStyleBackColor = True
         '
